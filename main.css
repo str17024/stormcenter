@@ -250,6 +250,13 @@ main article p.town-article, p.w-story {
     margin-bottom: 0;
 }
 
+form {
+    padding: 1em 0 4em 0;
+    background-color: gray;
+    
+}
+
+
 
 footer {
     background-color: #9afdfe;
